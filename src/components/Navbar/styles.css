@@ -1,0 +1,19 @@
+header {
+  background-color: var(--color-primary);
+  height: 60px;
+  display: flex;
+  align-items: center;
+}
+.inspires-nav-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+}
+.inspires-nav-contact {
+  display: flex;
+  align-items: center;
+}
+.inspires-contact-p {
+    margin: 0 0 0 10px;
+}
